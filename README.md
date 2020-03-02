@@ -1,1 +1,1 @@
-Coding Challenge in Python from the YouTube channel ExataMentes	
+Coding Challenge in Python and Julia from the YouTube channel ExataMentes	
