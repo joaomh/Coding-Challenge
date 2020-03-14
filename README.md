@@ -1,3 +1,3 @@
-# Read Me Template
+# Coding Challenge
 
-![Coding Challenge](project-image-url)
+![Coding Challenge](https://www.youtube.com/)
