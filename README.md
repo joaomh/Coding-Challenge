@@ -22,9 +22,6 @@ This repository contains the exercises implemented in the video series Coding Ch
 
 ---
 
-[Back To The Top](#read-me-template)
-
----
 
 ## Author Info
 
