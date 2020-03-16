@@ -28,6 +28,8 @@ This repository contains the exercises implemented in the video series Coding Ch
 
 ## Author Info
 
-- YouTube  - [@ExataMenteS](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
-- Facebook - [@ExataMenteS](https://www.facebook.com/ExataMenteS/)
+- YouTube   - [@ExataMenteS](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
+- Facebook  - [@ExataMenteS](https://www.facebook.com/ExataMenteS/)
+- Instagram - [@joaomanoelhp](http://instagram.com/joaomanoelhp)
+---
 [Back To The Top](#read-me-template)
